@@ -8,4 +8,4 @@ Studying web development in the course web moderno from Cod3r in the Udemy <br>
 practicing through a challenge that i made to myself of complete all the ideas from <br>
 florianpop17 list : https://github.com/florinpop17/app-ideas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarthx)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarthx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
