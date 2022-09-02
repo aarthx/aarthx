@@ -23,12 +23,12 @@
 <h2>Sobre Mim</h2>
 
 <p>Estudando desenvolvimento web no curso web moderno da Cod3r na Udemy <br>
-praticando através de um desafio que me fiz de completar todas as ideias da <br>
+praticando através de um desafio de completar algumas das ideias da <br>
 lista do florianpop17: https://github.com/florinpop17/app-ideas</p>
 
-<p>Studying web development in the course web moderno from Cod3r in the Udemy <br>
-practicing through a challenge that i made to myself of complete all the ideas from <br>
-florianpop17 list : https://github.com/florinpop17/app-ideas</p>
+<p>Studying web development in Cod3r's modern web course on Udemy <br>
+practicing through a challenge to complete some of the ideas from <br>
+florianpop17 list: https://github.com/florinpop17/app-ideas</p>
 
 <hr>
 <h2>Estudando Atualmente</h2>
