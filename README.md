@@ -62,7 +62,7 @@
 
 <a href="https://github.com/aarthx">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aarthx&theme=radical"/>
-</a>
+</a> <br><br>
 <a href="https://github.com/aarthx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarthx&theme=radical&layout=compact" />
 </a>
