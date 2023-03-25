@@ -64,11 +64,11 @@
 
 <hr>
 
-<a href="https://github.com/aarthx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aarthx&theme=radical"/>
-</a> <br><br>
-<a href="https://github.com/aarthx">
+<p><a href="https://github.com/aarthx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarthx&theme=radical&layout=compact" />
-</a>
+</a></p>
+<p><a href="https://github.com/aarthx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aarthx&theme=radical"/>
+</a></p>
 
 <hr>
