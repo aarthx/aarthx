@@ -14,6 +14,8 @@
 <h2>Sobre Mim</h2>
 
 <p>Estudante de Análise e desenvolvimento de sistemas, com grande interesse foco na área de desenvolvimento em geral, estudando inicialmente front-end mas com objetivo de se especializar em back-end e game development.<p> 
+ 
+<h3>Você pode encontrar meus projetos no meu <a href="https://aarthx.github.io">Portfólio</a></h3>
 
 <p>
   Estudando: 
