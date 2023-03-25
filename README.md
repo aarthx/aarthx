@@ -33,6 +33,8 @@
 
 <p>Systems analysis and development student, with great interest in development in general, initially studying front-end but aiming to specialize in back-end and game development.<p> 
 
+<h3>You can see my projects in my <a href="https://aarthx.github.io">Portfolio</a></h3>
+ 
 <p>
   Studying: 
   <ul>
