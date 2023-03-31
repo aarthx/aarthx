@@ -73,4 +73,4 @@
 
 <hr>
 
-![Snake animation](https://github.com/mnwz/mnwz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aarthx/aarthx/blob/output/github-contribution-grid-snake.svg)
